@@ -54,20 +54,16 @@ Focus: **Backend**, **Java**, **Spring**, **Microservices**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
 
 ## 📫 Contact
 
 - **📧 Email**: [sourabhk@outlook.in](mailto:sourabhk@outlook.in)
-- **💻 GitHub**: [@sourabhk-in](https://github.com/sourabhk-in)  
+- **💻 GitHub**: [@sourabhk-in](https://sourabhk-in.github.io/sourabhk-in/)  
 - **💼 LinkedIn**: [Sourabh K](https://www.linkedin.com/in/sourabh-k-00824525/)
 
 ### Let's Connect!
